@@ -38,12 +38,14 @@ python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 python app.py
+```
 
-### 2. Frontend (Flask)
+2. Frontend (React)
+```bash
 cd frontend
 npm install
 npm start
+```
 
-### 3. Open the App
+3. Open the App
 Visit: http://localhost:3000
-
