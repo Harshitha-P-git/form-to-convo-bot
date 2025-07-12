@@ -1,0 +1,10 @@
+# Ignore Python venv
+venv312/
+__pycache__/
+*.pyc
+
+# Ignore frontend node_modules
+frontend/node_modules/
+
+# Ignore secrets
+.env
