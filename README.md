@@ -48,4 +48,5 @@ npm start
 ```
 
 3. Open the App
-Visit: http://localhost:3000
+   
+  Visit: http://localhost:3000
